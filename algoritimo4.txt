@@ -3,4 +3,4 @@
 3- para todo numero de 2 até x faça:
 4- produto = produto * numero_atual
 
-Corrrijido com o prof
+Corrrigido com o prof
