@@ -1,0 +1,6 @@
+1- leia base
+2- leia altura 
+3- resultado = base*altura/2
+4- escreva resultado
+
+Corrijido em sala
