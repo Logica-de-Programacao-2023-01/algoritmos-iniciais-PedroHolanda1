@@ -1,0 +1,8 @@
+1- leia x
+2- para todos valores entre e x-1, faça:
+3- se x/valor_atual tem resto 0:
+4- entao escreva "não é numero primo"
+5- senao
+6- escreva " é numero primo"
+
+Corrijido com o prof
