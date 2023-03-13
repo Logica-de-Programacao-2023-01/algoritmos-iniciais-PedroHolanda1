@@ -5,5 +5,5 @@
 5- resultado = resultado * x
 6- escreva resultado
 
-Corrijido com O PROF
+Corrigido com O PROF
 
