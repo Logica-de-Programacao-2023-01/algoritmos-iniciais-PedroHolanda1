@@ -5,4 +5,4 @@
 5- senao
 6- escreva " é numero primo"
 
-Corrijido com o prof
+Corrigido com o prof
