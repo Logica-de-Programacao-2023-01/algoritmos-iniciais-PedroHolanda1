@@ -3,4 +3,4 @@
 3- resultado = base*altura/2
 4- escreva resultado
 
-Corrijido em sala
+Corrigido em sala
