@@ -1,0 +1,9 @@
+1- leia taxa_juros
+2- leia capital
+3- leia tempo
+4- var resultado = capital * taxas_juros
+5- para todos os valores entre 1 e tempo faça:
+6- resultado = resultado * (1+taxa_juros)
+7- escreva resultado
+Corrijido em sala com o prof
+
